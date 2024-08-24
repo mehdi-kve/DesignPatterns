@@ -1,2 +1,2 @@
 # DesignPatterns
-Mosh Design Patterns' exercises written in C#;
+Design Patterns' Exercises and Templates in .NET 
