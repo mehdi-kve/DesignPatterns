@@ -26,7 +26,6 @@ objects).
 - [Iterator], how an aggregate's elements are accessed
 - [Mediator], how and which objects interact with each other
 - [Memento], what private information is stored outside an object, and when
-- Interpreter, grammar and interpretation of a language
 - Observer, how the dependent objects stay up to date
 - State, states of an object
 - Strategy, an algorithm
