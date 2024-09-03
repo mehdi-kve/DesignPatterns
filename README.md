@@ -26,11 +26,11 @@ objects).
 - [Iterator], how an aggregate's elements are accessed
 - [Mediator], how and which objects interact with each other
 - [Memento], what private information is stored outside an object, and when
-- Observer, how the dependent objects stay up to date
-- State, states of an object
-- Strategy, an algorithm
-- Template Method, steps of an algorithm
-- Visitor, operations that can be applied to objects without changing their classes
+- [Observer], how the dependent objects stay up to date
+- [State], states of an object
+- [Strategy], an algorithm
+- [Template] Method, steps of an algorithm
+- [Visitor], operations that can be applied to objects without changing their classes
 
 ### Languages
 In my repository you can find implementation of design patterns in C# language on .NET
@@ -65,3 +65,8 @@ Design patterns in this repository are based on
 [Iterator]: https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Iterator
 [Mediator]: https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Mediator%20Pattern
 [Memento]: https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Momento
+[Observer]:https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Observer
+[State]:https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/State
+[Strategy]:https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Strategy
+[Template]:https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Template
+[Visitor]:https://github.com/mehdi-kve/DesignPatterns/tree/main/Behavioral%20Design%20Patterns/Visitor
